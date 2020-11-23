@@ -11,5 +11,5 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme:minima
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2020-11-23
 ---
