@@ -1,15 +1,1 @@
-title: tato
-author: tato
-email: your-email@domain.com
-description: > tato 123
 
-# social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-theme:minima
----
-title: "my first blog front- end veb developer"
-date: 2020-11-23
----
